@@ -1,6 +1,15 @@
 ## Welcome to GitHub Pages
 
-## Danny Smith
+## Danny Smith's First CS193 Homework
+
+#### My Favorite Parts of CS193
+
+- It's only a 1 credit class
+- I learn how to use GitHub and Terminal
+- Class is full of a bunch of CS kids
+- Instructors seem chill
+
+#### The Rest of the Website Template
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
